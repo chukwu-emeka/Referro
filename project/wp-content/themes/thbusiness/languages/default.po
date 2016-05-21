@@ -1,0 +1,672 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: thbusiness.2.0.0\n"
+"POT-Creation-Date: 2016-01-14 18:01+0530\n"
+"PO-Revision-Date: 2016-01-14 18:01+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_nx;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: archive.php:27
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:30
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:33
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:33
+msgid "F Y"
+msgstr ""
+
+#: archive.php:36
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:36
+msgid "Y"
+msgstr ""
+
+#: archive.php:39
+msgid "Asides"
+msgstr ""
+
+#: archive.php:42
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:45
+msgid "Images"
+msgstr ""
+
+#: archive.php:48
+msgid "Videos"
+msgstr ""
+
+#: archive.php:51
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:54
+msgid "Links"
+msgstr ""
+
+#: archive.php:57
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:60
+msgid "Audios"
+msgstr ""
+
+#: archive.php:63
+msgid "Chats"
+msgstr ""
+
+#: archive.php:66
+msgid "Archives"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:18 content-single.php:25
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:26 content-single.php:45 content.php:58
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:16 content.php:16
+msgid "Leave a comment"
+msgstr ""
+
+#: content-single.php:16 content.php:16
+msgid "1 Comment"
+msgstr ""
+
+#: content-single.php:16 content.php:16
+msgid "% Comments"
+msgstr ""
+
+#: content-single.php:36 content.php:39 content.php:49
+msgid ", "
+msgstr ""
+
+#: content.php:30
+msgid "Read More &raquo;"
+msgstr ""
+
+#: footer.php:54
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: footer.php:57
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:57
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:89
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:98
+msgid "Business Template Top Area"
+msgstr ""
+
+#: functions.php:107
+msgid "Business Template Left Area"
+msgstr ""
+
+#: functions.php:116
+msgid "Business Template Right Area"
+msgstr ""
+
+#: functions.php:125
+msgid "Business Template Bottom Area"
+msgstr ""
+
+#: functions.php:134
+msgid "Footer Left Sidebar"
+msgstr ""
+
+#: functions.php:143
+msgid "Footer Mid Sidebar"
+msgstr ""
+
+#: functions.php:152
+msgid "Footer Right Sidebar"
+msgstr ""
+
+#: header.php:62
+msgid "Search"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/template-tags.php:45
+msgid "<span class=\"meta-nav-prev\"></span> Previous"
+msgstr ""
+
+#: inc/template-tags.php:46
+msgid "Next <span class=\"meta-nav-next\"></span>"
+msgstr ""
+
+#: inc/template-tags.php:54
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:76
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:79
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: inc/template-tags.php:80
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/theme-info.php:39
+msgid "View Demo"
+msgstr ""
+
+#: inc/theme-info.php:43
+msgid "Documentation"
+msgstr ""
+
+#: inc/theme-info.php:47
+msgid "Get Support"
+msgstr ""
+
+#: inc/theme-info.php:51
+msgid "Customize Site"
+msgstr ""
+
+#: inc/theme-info.php:55 inc/customizer/customizer.php:669
+msgid "THBusiness Pro"
+msgstr ""
+
+#: inc/theme-info.php:59
+msgid "THBusiness Pro Demo"
+msgstr ""
+
+#: inc/theme-info.php:76
+msgid ""
+"As per the new guidelines to remove theme options panels of the themes that "
+"are available on WordPress.org, we have completely removed the \"Theme "
+"Options\" panel with the new THBusiness 2.0 update. All the settings and "
+"options are now located in the theme customizer. Go to <b>\"Appearence > "
+"Customize\"</b> to find the Customizer or please use the \"Contact Us\" link "
+"below if you have run into any issues with the update."
+msgstr ""
+
+#: inc/theme-info.php:77
+msgid "Go to customizer."
+msgstr ""
+
+#: inc/theme-info.php:78
+msgid "Contact Us"
+msgstr ""
+
+#: inc/widgets.php:16
+msgid "THBusiness Services Widget"
+msgstr ""
+
+#: inc/widgets.php:17
+msgid "Displays pages as services. Best for Business Template Top/Bottom Area."
+msgstr ""
+
+#: inc/widgets.php:36
+msgid ""
+"If there is not an icon it will display the featured image of the page as "
+"the icon.<br /> Give the name of the font awesome icon to the Icon input "
+"field.You can find the icon names from the readme.txt <br /> eg: fa-angle-"
+"double-up"
+msgstr ""
+
+#: inc/widgets.php:40
+msgid "Icon "
+msgstr ""
+
+#: inc/widgets.php:44
+msgid "Page "
+msgstr ""
+
+#: inc/widgets.php:130 inc/widgets.php:484
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets.php:164
+msgid "THBusiness Recent Work Widget"
+msgstr ""
+
+#: inc/widgets.php:165
+msgid ""
+"Displays pages as recent work.Featured image of the page will show up first. "
+"Best for Business Template Top/Bottom Area."
+msgstr ""
+
+#: inc/widgets.php:190
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:195
+msgid "Display page titles."
+msgstr ""
+
+#: inc/widgets.php:199
+msgid "Display page excerpts."
+msgstr ""
+
+#: inc/widgets.php:204 inc/widgets.php:435
+msgid "Page"
+msgstr ""
+
+#: inc/widgets.php:310
+msgid "THBusiness Call To Action"
+msgstr ""
+
+#: inc/widgets.php:311
+msgid ""
+"Displays a call to action widget.Best for Business Template Top/Bottom Area."
+msgstr ""
+
+#: inc/widgets.php:327
+msgid "Call to Action Main Text"
+msgstr ""
+
+#: inc/widgets.php:329
+msgid "Call to Action Additional Text"
+msgstr ""
+
+#: inc/widgets.php:332
+msgid "Button Text:"
+msgstr ""
+
+#: inc/widgets.php:336
+msgid "Button Redirect Link:"
+msgstr ""
+
+#: inc/widgets.php:417
+msgid "THBusiness Single Page Widget"
+msgstr ""
+
+#: inc/widgets.php:418
+msgid "Displays a single Page along with the featured image."
+msgstr ""
+
+#: inc/widgets.php:429 inc/widgets.php:528 inc/widgets.php:662
+msgid "Title"
+msgstr ""
+
+#: inc/widgets.php:432
+msgid "Displays the page title if this title field is empty"
+msgstr ""
+
+#: inc/widgets.php:439
+msgid "Remove Featured image"
+msgstr ""
+
+#: inc/widgets.php:511
+msgid "THBusiness Testimonial"
+msgstr ""
+
+#: inc/widgets.php:512
+msgid "Displays a testimonial.Best for Business Template Left/Right Area."
+msgstr ""
+
+#: inc/widgets.php:532
+msgid "Description"
+msgstr ""
+
+#: inc/widgets.php:536
+msgid "Name"
+msgstr ""
+
+#: inc/widgets.php:540
+msgid "designation"
+msgstr ""
+
+#: inc/widgets.php:544
+msgid "Company Name"
+msgstr ""
+
+#: inc/widgets.php:548
+msgid "Company Url"
+msgstr ""
+
+#: inc/widgets.php:552
+msgid "Image"
+msgstr ""
+
+#: inc/widgets.php:554
+msgid ""
+"Upload a square image( width : height = 1 : 1). Do not upload large images, "
+"that will increase the site loading time."
+msgstr ""
+
+#: inc/widgets.php:561 inc/widgets.php:677
+msgid "Select Image"
+msgstr ""
+
+#: inc/widgets.php:634
+msgid "THBusiness Featured Images"
+msgstr ""
+
+#: inc/widgets.php:635
+msgid ""
+"Displays images.You can show customer logos or any other images by this "
+"widget.Best for Business Template Top/Bottom Area."
+msgstr ""
+
+#: inc/widgets.php:669
+msgid "Image "
+msgstr ""
+
+#: inc/widgets.php:681
+msgid "Image Redirect Link "
+msgstr ""
+
+#: inc/customizer/customizer.php:35
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:36
+msgid "Use this panel to set your header settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:54
+msgid "Site Logo"
+msgstr ""
+
+#: inc/customizer/customizer.php:57
+msgid ""
+"Upload a logo for your website. Recommended height for your logo is 135px."
+msgstr ""
+
+#: inc/customizer/customizer.php:74
+msgid "Display site title / logo."
+msgstr ""
+
+#: inc/customizer/customizer.php:77
+msgid "Choose your preferred option."
+msgstr ""
+
+#: inc/customizer/customizer.php:79
+msgid "Display site title and description only."
+msgstr ""
+
+#: inc/customizer/customizer.php:80
+msgid "Display site logo image only."
+msgstr ""
+
+#: inc/customizer/customizer.php:81
+msgid "Display none"
+msgstr ""
+
+#: inc/customizer/customizer.php:98
+msgid "Upload a favicon"
+msgstr ""
+
+#: inc/customizer/customizer.php:101
+msgid "Upload a favicon for your website."
+msgstr ""
+
+#: inc/customizer/customizer.php:120
+msgid "Display site favicon?"
+msgstr ""
+
+#: inc/customizer/customizer.php:131
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:132
+msgid "Use this section to set general settings of the site."
+msgstr ""
+
+#: inc/customizer/customizer.php:141
+#, php-format
+msgid "Copyright %s. All rights reserved."
+msgstr ""
+
+#: inc/customizer/customizer.php:151
+msgid "Footer copyright text"
+msgstr ""
+
+#: inc/customizer/customizer.php:152
+msgid ""
+"Copyright or other text to be displayed in the site footer. HTML allowed."
+msgstr ""
+
+#: inc/customizer/customizer.php:162
+msgid "Top Bar Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:181
+msgid "Display top bar?"
+msgstr ""
+
+#: inc/customizer/customizer.php:199
+msgid "Call Us Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:217
+msgid "Telephone Number"
+msgstr ""
+
+#: inc/customizer/customizer.php:235
+msgid "Email Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:253
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer/customizer.php:271
+msgid "Custom Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:272
+msgid "Add your custom text here."
+msgstr ""
+
+#: inc/customizer/customizer.php:282
+msgid "Homepage Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:283
+msgid "Use this panel to set your home page settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:294
+msgid "Homepage Slider"
+msgstr ""
+
+#: inc/customizer/customizer.php:313
+msgid "Display slider on homepage ?"
+msgstr ""
+
+#: inc/customizer/customizer.php:329
+#, php-format
+msgid "Slide %d image"
+msgstr ""
+
+#: inc/customizer/customizer.php:350
+#, php-format
+msgid "Slide %d title"
+msgstr ""
+
+#: inc/customizer/customizer.php:368
+#, php-format
+msgid "Slide %d description"
+msgstr ""
+
+#: inc/customizer/customizer.php:386
+#, php-format
+msgid "Slide %d redirect url"
+msgstr ""
+
+#: inc/customizer/customizer.php:404
+#, php-format
+msgid "Slide %d button text"
+msgstr ""
+
+#: inc/customizer/customizer.php:416
+msgid "Site Styling"
+msgstr ""
+
+#: inc/customizer/customizer.php:417
+msgid "Use this section to setup the homepage slider and featured posts."
+msgstr ""
+
+#: inc/customizer/customizer.php:437
+msgid "Site Main Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:448 inc/customizer/customizer.php:469
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/customizer.php:470
+msgid "Define custom CSS be used for your site. Do not enclose in script tags."
+msgstr ""
+
+#: inc/customizer/customizer.php:480
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer/customizer.php:499
+msgid "Display social icons?"
+msgstr ""
+
+#: inc/customizer/customizer.php:517
+msgid "Follow Us Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:536
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:554
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:572
+msgid "Google Plus URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:590
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:608
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:626
+msgid "Dribbble URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:644
+msgid "Github URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:662
+msgid "Flickr URL"
+msgstr ""
+
+#: inc/customizer/customizer.php:688
+msgid "Do you want more features?"
+msgstr ""
+
+#: inc/customizer/customizer.php:689
+msgid ""
+"Then consider buying <a href=\"http://themezhut.com/themes/thbusiness-pro/\" "
+"target=\"_blank\">Thbusiness Pro.</a><h4>Thbusiness Pro Features.</"
+"h4><ol><li>More Layouts.</li><li>Google Fonts.</li><li>Unlimited Colors.</"
+"li><li>More Page Templates.</li><li>More Widgets</li><li>More Customizer "
+"Options.</li><li>Released under GPL.</li></ol>And more..<p><a class=\"button"
+"\" href=\"http://themezhut.com/demo/thbusiness-pro/\" target=\"_blank"
+"\">Thbusiness Pro Demo</a><a class=\"button button-primary\" href=\"http://"
+"themezhut.com/themes/thbusiness-pro/\" target=\"_blank\">Thbusiness Pro "
+"Details</a></p>"
+msgstr ""
