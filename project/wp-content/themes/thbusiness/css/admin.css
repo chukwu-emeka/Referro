@@ -1,0 +1,110 @@
+.media-picker-remove {
+  position: absolute;
+  margin-top: -40px;
+  margin-left: 5px;
+  background-color: #E0E0E0;
+  color: #FF4D4D;
+  padding: 4px;
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  text-align: center;
+  cursor: pointer;
+  opacity: 0.7;
+  right: 20px;
+  font-weight: bold;
+}
+
+.media-picker-wrap {
+  margin-bottom: 15px;
+}
+
+.thbusiness-theme-info {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    padding: 50px;
+    background-color: #fff;
+    max-width: 1000px;
+}
+
+h1.thbusiness-info-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0;
+    color: #353535;
+}
+
+.thbusiness-info-header {
+    margin-bottom: 50px;
+}
+
+.thbusiness-theme-description {
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+
+.thbusiness-info-blocks {
+    clear: both;
+    overflow: hidden;
+}
+
+.thbusiness-info-block {
+    width: 30%;
+    height: 100px;
+    float: left;
+    text-align: center;
+    margin: 0 0 5% 5%;
+    background-color: #eee;
+}
+
+@media only screen and (max-width: 768px) {
+  .thbusiness-info-block {
+    padding-top: 5px;
+    width: 100%;
+    margin: 0 0 50px;
+    float: none;
+  }
+}
+
+.aw-n-margin {
+    margin-left: 0;
+}
+
+.thbusiness-info-block .dashicons {
+    display: block !important;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+.thbusiness-info-block a {
+    color: #00a0d2;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.thbusiness-info-block a:hover {
+    color: #333;
+}
+
+.thbusiness-info-block .dashicons-book-alt {
+    font-size: 24px;
+}
+
+.thbusiness-info-block .dashicons-awards {
+    font-size: 32px;
+}
+
+.thbusiness-options p {
+    font-size: 16px;
+}
+
+.thbusiness-options {
+    font-size: 16px;
+}
